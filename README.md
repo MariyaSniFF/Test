@@ -1,1 +1,3 @@
-## Me remote repository tutorial
+## Me remote repository  
+
+*git pull* - получаем изменения из удаленного репозитория
